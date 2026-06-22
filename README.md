@@ -33,8 +33,9 @@ Score:
 1.08
 
 
-📂 Project Structure
+## 📂 Project Structure
 
+```text
 Student-Performance-Prediction/
 │
 ├── data/
@@ -50,6 +51,7 @@ Student-Performance-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
 
 
 
