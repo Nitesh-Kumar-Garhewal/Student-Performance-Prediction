@@ -23,15 +23,9 @@ Machine Learning project that predicts student exam scores based on study habits
 
 ## 📊 Model Performance
 
-Model:
-Random Forest Regressor
-
-Evaluation:
-Mean Absolute Error (MAE)
-
-Score:
-1.08
-
+- **Model:** Random Forest Regressor
+- **Evaluation Metric:** Mean Absolute Error (MAE)
+- **Score:** 1.08
 
 ## 📂 Project Structure
 
@@ -48,27 +42,27 @@ Student-Performance-Prediction/
 │   └── student_prediction.ipynb
 │
 ├── app.py
-|
+│
 ├── requirements.txt
-|
+│
 ├── README.md
-|
+│
 └── .gitignore
 ```
 
-
-
 ## ▶️ Run Project
 
-Install dependencies:
+### Install Dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
+### Run Application
 
-Run application:
-
+```bash
 streamlit run app.py
-
+```
 
 
 ## 🎯 Input Features
