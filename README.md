@@ -33,23 +33,23 @@ Score:
 1.08
 
 
-## 📂 Project Structure
+📂 Project Structure
 
-Student-Performance-Prediction
-
+Student-Performance-Prediction/
 │
-├── data
-│ └── StudentPerformanceFactors.csv
+├── data/
+│   └── StudentPerformanceFactors.csv
 │
-├── models
-│ └── student_model.pkl
+├── models/
+│   └── student_model.pkl
 │
-├── notebooks
-│ └── student_prediction.ipynb
+├── notebooks/
+│   └── student_prediction.ipynb
 │
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── .gitignore
 
 
 
@@ -74,8 +74,3 @@ streamlit run app.py
 - Sleep Hours
 - Parental Involvement
 - Access to Resources
-
-
-## 📌 Output
-
-Predicted Exam Score
