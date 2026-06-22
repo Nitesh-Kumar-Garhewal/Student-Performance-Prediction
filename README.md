@@ -48,8 +48,11 @@ Student-Performance-Prediction/
 │   └── student_prediction.ipynb
 │
 ├── app.py
+|
 ├── requirements.txt
+|
 ├── README.md
+|
 └── .gitignore
 ```
 
